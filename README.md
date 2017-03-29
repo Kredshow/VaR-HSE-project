@@ -44,9 +44,3 @@
 **4)** Добавим акции в наш портфель. На пример, я куплю на NASDAQ 1 акцию Google и 8 акций Apple. Сперва добавлю их в портфель, а потом скачаю историю.
 
 ![work_window2.jpg](https://bitbucket.org/repo/y4MdB5/images/3056745078-work_window2.jpg) ![work_window3.jpg](https://bitbucket.org/repo/y4MdB5/images/3727828741-work_window3.jpg)![work_window4.jpg](https://bitbucket.org/repo/y4MdB5/images/2230831493-work_window4.jpg)
-
-To be continued...
-
-
-* Repo owner or admin
-* Other community or team contact
